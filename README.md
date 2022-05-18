@@ -1,2 +1,2 @@
-# Landon_Ebooks
-collection of eBooks ranging from IT to Photoshop
+# eBooks
+collection of IT and Photoshop eBooks
